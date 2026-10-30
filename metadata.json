@@ -1,0 +1,6 @@
+{
+  "name": "PipeDispatch",
+  "description": "The After Hours Answer Fix for plumbing companies in the United States. AI voice agent that answers every call after your office closes, states your service area and call out fee, and books the job into your calendar.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
